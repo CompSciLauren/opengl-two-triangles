@@ -1,1 +1,1 @@
-# opengl-two-triangles
+# OpenGL Two Triangles
